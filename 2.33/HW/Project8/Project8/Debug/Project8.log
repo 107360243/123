@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Source.cpp
+c:\users\user\程式作業\107360243_林庭佑\2.33\source\source.cpp(17): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Project8.vcxproj -> C:\Users\User\程式作業\107360243_林庭佑\2.33\HW\Project8\Project8\..\..\..\temp\debug\Project8.exe
